@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-We simulate biologically important molecules and calculate free energy landscapes at the University of Arkansas - Fayetteville.
+Research in Biomolecular Simulations Group (Moradi Lab) is centered around two inter-related questions: (i) how do proteins function by changing their conformation and undergoing concerted motions? and (ii) how can we simulate these functionally important conformational changes at an atomic level?
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -27,7 +28,7 @@ We simulate biologically important molecules and calculate free energy landscape
             <img src="{{ site.url }}{{ site.baseurl }}/images/cov_active.gif" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/FEL.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/FEL_small.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 3" />
@@ -56,12 +57,14 @@ We simulate biologically important molecules and calculate free energy landscape
 </div>
 
 
-Here is another paragraph of content about how great we are. I am a very good writer and not struggling to think of things to put here in any way. 
+We develop and employ Molecular Dynamics (MD) based enhanced sampling techniques to tackle both problems. Answering these questions would shed light on the structure-function relationships in proteins, and could improve our understanding of disease at a molecular level. We attempt to narrow the gap between the state-of-the-art computational methodologies and biologically/biomedically relevant applications.
+
+We are particularly interested in the study of large-scale conformational changes of proteins such as those involved in membrane transport and signal transduction. A novel combination of nonequilibrium and equilibrium MD based techniques are employed to reconstruct the slow biomolecular processes such as inward- to outward-facing structural transition of membrane transporters at an atomic level. 
 
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/UA_Logo.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+<figure class="fourth" align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Fulbright-logo-horizontal-short-color.png" style="width: 650px" >
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">-->
 </figure>
