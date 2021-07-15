@@ -1,14 +1,14 @@
 - name: Mortaza Derakhshani 
   photo: mortaza.jpg
-  info: Postdoc, started Oct 2020
+  info: Postdoc, started Nov 2020
   email: mderakhs@uark.edu
   number_educ: 1
-  education1: "Research Interests: Activation dynamics of mutated coronaviruses"
+  education1: "Activation dynamics of mutated coronaviruses"
 
 - name: James Losey 
   photo: james.png
   info: Postdoc, started Nov 2019
   email: losey@uark.edu
   number_educ: 1
-  education1: "Research Interests: Generation and analysis of smFRET data from simulation"
+  education1: "Generation and analysis of smFRET data from simulation"
 

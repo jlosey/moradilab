@@ -8,37 +8,69 @@
 #  education3:
 #  education4:
 
-- name: Rebecca Gharibaan
-  photo: rock.jpg
-  info: Master student
-  email: R.Gharibaan@student.tudelft.nl
-  number_educ: 0
-  education1:
+- name: Vivek Govind Kumar 
+  photo: vivek.jpg
+  info: Ph.D student, Cell and Molecular Biology
+  email: vgovindk@email.uark.edu
+  number_educ: 3
+  education1: Fibroblast Growth Factor Signaling
+  education2: Protein Aggregation
+  education3: Lysenin - a beta-pore forming toxin
 
-- name: Rémi Claessen
-  photo: rock.jpg
-  info: Master student
-  email: remi.c60000@gmail.com
-  number_educ: 0
-  education1:
+- name: Curtis Goolsby 
+  photo: curtis.jpg
+  info: Ph.D student, Chemistry and Biochemstry
+  email: cgoolsby@email.uark.edu
+  number_educ: 5
+  education1: Protein Conformational Landscapes
+  education2: Deep Learning
+  education3: Development of Water Force Fields Using Neural Networks
+  education4: Novel Enhanced Sampling Methods for Protein Dynmaics
+  education5: Riemannian Manifolds
 
-- name: Maialen Larrazabal Ortego
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Dylan Ogden 
+  photo: dylan.png
+  info: Ph.D student, Cell and Molecular Biology
+  email: dsogden@email.uark.edu
+  number_educ: 2
+  education1: Lipid Modulation of Membrane Protein Function
+  education2: ABC Transporters
 
-- name: Sergio Barquero Pierantoni
-  photo: rock.jpg
-  info: Master student
-  email: s.barquero.pierantoni@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Adithya Polasa 
+  photo: adithya.jpg
+  info: Ph.D student, Cell and Molecular Biology
+  email: apolasa@email.uark.edu
+  number_educ: 2
+  education1: Membrane Insertases
+  education2: Mechanosensitive Channels
 
-- name: Evert Stolte
-  photo: rock.jpg
-  info: Master student
-  email: evert_3aug@hotmail.com
+- name: Ugochi Isu 
+  photo: ugochi.png
+  info: Ph.D student, Chemistry and Biochemistry
+  email: uhisu@email.uark.edu
+  number_educ: 2
+  education1: Cannabinoid Receptors
+  education2: Class C GPCRs
+
+- name: Matthew Brownd 
+  photo: matthew.png
+  info: Ph.D student, Chemistry and Biochemistry
+  email: mgbrownd@uark.edu
   number_educ: 0
-  education1:
+  education1: 
+  education2: 
+
+- name: Shadi A Badiee 
+  photo: shadi.jpg
+  info: Ph.D student, Cell and Molecular Biology
+  email: sasadian@uark.edu
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: William Strickland 
+  photo: william.jpg
+  info: B.Sc. student, Biology
+  email: wdstrick@uark.edu
+  number_educ: 0
+  education1: 
